@@ -6,6 +6,9 @@
 
 LibraGuess é uma aplicação web educativa desenvolvida para auxiliar no aprendizado da Língua Brasileira de Sinais (LIBRAS) de forma interativa e divertida. O projeto utiliza uma abordagem gamificada para tornar o processo de aprendizagem mais envolvente e eficaz.
 
+![{80C3F191-07DE-4801-83C5-DDACE6A0EAE9}](https://github.com/user-attachments/assets/f3cf03cc-66b4-49a4-a277-6dbb247fc15e)
+
+
 ## ✨ Características
 
 - 🎮 Aprendizado gamificado
